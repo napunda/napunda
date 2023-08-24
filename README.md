@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou Anderson Alves e bem vindo ao meu perfil do GitHub.
+### 👋 Olá! Eu sou Anderson Souza e seja bem vindo ao meu perfil do GitHub.
 Sou um entusiasta no mundo de desenvolvimento web.
 
 ![Napunda GitHub stats](https://github-readme-stats.vercel.app/api?username=napunda&show_icons=true&theme=merko&count_private=true)
