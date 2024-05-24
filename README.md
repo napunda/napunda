@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=napunda" alt="napunda" /></a> </p>
 
-- 🔭 I’m currently working on **FullScren**
+- 🔭 I’m currently working on **Vedas Sistemas**
 
-- 🌱 I’m currently learning **Symfony**
+- 🌱 I’m currently learning **Adonisjs**
 
 - 📫 How to reach me **alves.souza@unemat.br**
 
